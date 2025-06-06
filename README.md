@@ -34,6 +34,13 @@ Create a powerful tool that **simulates** and **analyzes** cloud security breach
 
 ---
 
+## 🏃How to Run
+
+1. Clone repository   
+2. Use command: "npm i" in terminal to install all dependencies  
+3. Use command: "npm run dev" to see the app in the development server
+
+---
 Ready to secure the cloud and have some fun? Let’s get hacking — ethically, of course! 😎⚡
 
 ---
